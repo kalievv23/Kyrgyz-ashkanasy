@@ -1,0 +1,37 @@
+.busket-logo-animate-success {
+  animation: busketLogoAnimation 0.18s ease-in-out;
+}
+
+@keyframes busketLogoAnimation {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.busket-logo-animate-error {
+  animation: busketLogoAnimationn 0.24s ease-in-out;
+}
+
+@keyframes busketLogoAnimationn {
+  0% {
+    transform: translateX(-18px);
+    transform: scale(1.2);
+  }
+  25% {
+    transform: translateX(18px);
+  }
+  50% {
+    transform: translateX(0);
+  }
+  75% {
+    transform: translateX(-18px);
+  }
+  100% {
+    transform: translateX(18px);
+  }
+}

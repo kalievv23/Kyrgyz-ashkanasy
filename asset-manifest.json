@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Kyrgyz-ashkanasy/static/css/main.800f81c2.css",
+    "main.js": "/Kyrgyz-ashkanasy/static/js/main.f90d7e8e.js",
+    "static/media/mainImg.avif": "/Kyrgyz-ashkanasy/static/media/mainImg.bdba7cd5fcc47d39f358.avif",
+    "index.html": "/Kyrgyz-ashkanasy/index.html",
+    "main.800f81c2.css.map": "/Kyrgyz-ashkanasy/static/css/main.800f81c2.css.map",
+    "main.f90d7e8e.js.map": "/Kyrgyz-ashkanasy/static/js/main.f90d7e8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.800f81c2.css",
+    "static/js/main.f90d7e8e.js"
+  ]
+}
